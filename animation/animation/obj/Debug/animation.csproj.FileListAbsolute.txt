@@ -1,0 +1,10 @@
+C:\Users\psbas\source\repos\animation\animation\bin\Debug\animation.exe.config
+C:\Users\psbas\source\repos\animation\animation\bin\Debug\animation.exe
+C:\Users\psbas\source\repos\animation\animation\bin\Debug\animation.pdb
+C:\Users\psbas\source\repos\animation\animation\obj\Debug\animation.csprojAssemblyReference.cache
+C:\Users\psbas\source\repos\animation\animation\obj\Debug\animation.Form1.resources
+C:\Users\psbas\source\repos\animation\animation\obj\Debug\animation.Properties.Resources.resources
+C:\Users\psbas\source\repos\animation\animation\obj\Debug\animation.csproj.GenerateResource.cache
+C:\Users\psbas\source\repos\animation\animation\obj\Debug\animation.csproj.CoreCompileInputs.cache
+C:\Users\psbas\source\repos\animation\animation\obj\Debug\animation.exe
+C:\Users\psbas\source\repos\animation\animation\obj\Debug\animation.pdb
